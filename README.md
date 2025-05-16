@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="metadata/en-US/images/icon.png"  width=160 height=160  align="center">
+<img src="![Audivo Logo Design 1](https://github.com/user-attachments/assets/e1306f59-ed29-4321-b129-406e6ee0d289)"  width=160 height=160  align="center">
 
-# Booming Music
+# Audivo
 
 ### A modern, Material 3 local music player built for smooth offline listening
 
